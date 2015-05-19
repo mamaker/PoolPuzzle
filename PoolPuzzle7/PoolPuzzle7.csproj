@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Acts.cs" />
+    <Compile Include="Clowns.cs" />
+    <Compile Include="Nose.cs" />
+    <Compile Include="Of76.cs" />
+    <Compile Include="Picasso.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

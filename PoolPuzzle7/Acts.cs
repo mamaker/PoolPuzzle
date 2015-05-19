@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace PoolPuzzle7
 {
-    class Program
+    class Acts : Picasso
     {
-        static void Main(string[] args)
+        public Acts() : base("Acts") { }
+        public override int Ear()
         {
+            return 5;
         }
     }
 }
